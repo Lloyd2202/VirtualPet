@@ -35,5 +35,5 @@ void draw(){
   //horns
   fill(245, 0, 0);
   ellipse(150, 130, 70, 40);
-}}
+}
 
